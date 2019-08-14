@@ -1,0 +1,15 @@
+oracle:
+  db: <oracle db tns connect string>
+  userName: <schema>
+  password: <password>
+output:
+  inbox: output/inbox/
+  work:  output/work/ 
+
+snowflake:
+  account: <account>
+  database: <db>
+  schema: <schema>
+  user: <user>
+  password: <password>
+  warehouse: <warehouse>

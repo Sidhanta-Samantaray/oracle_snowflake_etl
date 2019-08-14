@@ -1,0 +1,6 @@
+#ignore below folders
+src/__pycache__/
+output/
+logs/
+app.log
+*.csv
